@@ -1,2 +1,6 @@
 # LearnBSL
 This is a program which can be trained to teach the user how to perform sign language signs.
+
+It is a software which recognizes and teaches BSL words to the user. This would require a computer system with image processing capabilities, a webcam to capture video, a suitable operating system and software suite to run the application. The user would also need to have basic computer literacy to be able to use the program as intended.
+
+The program would suggest a word to the user to practice, and they would be shown instructions about how it should be carried out. Continuous video of the user’s hand signs through the webcam would be captured and processed to ascertain whether they were being performed correctly. By using the information captured to identify the relative positions of the user’s fingers, it can then be deduced whether the word has been correctly represented or not. If not, then the user would have to redo the gesture until it has been deemed correct. The recognition process would be done through the use of an AI model, which would first need to be trained on the words being recognised. However, the scope of this project will be limited to differentiating, recognizing, and teaching a limited number of different words to the user as the principle behind incorporating additional ones into the software holds the same concept.
